@@ -19,5 +19,4 @@ function setTheme() {
         link.disabled = false;
     }
 }
-
-setTheme();
+document.addEventListener('DOMContentLoaded', setTheme, false);

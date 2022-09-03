@@ -1,8 +1,8 @@
 @import "colors";
-@import "utilities";
-@import "text";
 //@import "buttons";
 //@import "input";
+@import "utilities";
+@import "text";
 @import "footer";
 @import "lista";
 @import "icons";
@@ -31,6 +31,11 @@ h3 {
     body {
         max-width: none
     }
+}
+
+pre {
+    font-size: 16px;
+    line-height: 16px;
 }
 
 .code {
