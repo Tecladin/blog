@@ -1,0 +1,19 @@
+:root {
+    --cor-text: #242424;
+    --cor-fundo: #e6e6e6;
+    --cor-branco: #FFF;
+    --azul: #23B0FF;
+    --verde: #78E2A0;
+    --rosa: #EE72F1;
+    --vermelho: #FF6266;
+    --cor-code: #171717;
+}
+
+$cor-text: var(--cor-text);
+$cor-fundo: var(--cor-fundo);
+$cor-branco: var(--cor-branco);
+$azul: var(--azul);
+$verde: var(--verde);
+$rosa: var(--rosa);
+$vermelho: var(--accent);
+$cor-code: var(--cor-code);
