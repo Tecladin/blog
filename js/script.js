@@ -19,7 +19,4 @@ function setTheme() {
         link.disabled = false;
     }
 }
-
-document.ready(()=>{
-    setTheme();
-})
+document.addEventListener('DOMContentLoaded', setTheme, false);
