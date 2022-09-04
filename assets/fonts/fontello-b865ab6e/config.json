@@ -1,0 +1,56 @@
+{
+  "name": "ttcons",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": false,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "ca90da02d2c6a3183f2458e4dc416285",
+      "css": "adjust",
+      "code": 59392,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "ivmsk67zo1yb1tthd3ugi4xnb3get418",
+      "css": "sun",
+      "code": 59394,
+      "src": "typicons"
+    },
+    {
+      "uid": "5840fe162df3bcc8e390c58ef4e2acf9",
+      "css": "sun-filled",
+      "code": 59395,
+      "src": "typicons"
+    },
+    {
+      "uid": "eb7e2f15c4c745bf60128174bf26676b",
+      "css": "moon-inv",
+      "code": 59393,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M463.3 83.3H462.9C114.6 116.3-40.4 545.8 207.1 793.3 454.6 1040.8 884.2 885.8 916.7 537.1A41.7 41.7 0 0 0 850 499.6C730.8 588.3 604.2 556.2 523.7 474.6 443.8 392.9 412.5 267.5 500 149.2A41.7 41.7 0 0 0 462.5 82.9Z",
+        "width": 1000
+      },
+      "search": [
+        "moon5certo"
+      ]
+    },
+    {
+      "uid": "09645393db7a85eb6fdf2b53b8c6d9c0",
+      "css": "moon",
+      "code": 59396,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M458.3 83.3C112.5 116.3-40.4 545.8 207.1 792.9 454.6 1040.4 884.2 885 916.7 536.7A41.7 41.7 0 0 0 850 499.2C730.8 587.9 604.2 555.8 523.7 474.2 443.8 392.9 412.5 267.5 500 149.2A41.7 41.7 0 0 0 462.5 82.9ZM391.7 185.4A327.5 327.5 0 0 0 464.6 532.5 327.5 327.5 0 0 0 814.6 607.5 329.2 329.2 0 0 1 265.8 732.5C84.2 552.9 166.7 265.8 392.1 185.8Z",
+        "width": 1000
+      },
+      "search": [
+        "moon4-optimized"
+      ]
+    }
+  ]
+}

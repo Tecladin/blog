@@ -1,0 +1,12 @@
+pre {
+    font-size: 16px;
+    line-height: 16px;
+    white-space: pre-wrap;
+}
+
+.code {
+    background-color: $cor-code;
+    color: $cor-branco;
+    border-radius: .7rem;
+    padding: .4rem;
+}
