@@ -1,12 +1,3 @@
-<?php 
-if (isset($_COOKIE['T'])) {
-    $theme = '';
-    $icon = '';
-} else {
-    $theme = "disabled";
-    $icon = '';
-}
-?>
 <!DOCTYPE html>
 <html lang="pt-br">
 
@@ -16,12 +7,12 @@ if (isset($_COOKIE['T'])) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home</title>
     <link rel="stylesheet" href="./assets/css/main.css">
-    <link id="dark-theme" rel="stylesheet" href="./assets/css/escuro.css" <?php echo $theme?>>
+    <link id="dark-theme" rel="stylesheet" href="./assets/css/escuro.css">
 </head>
 
 <body>
     <header>
-        <span class="icon pointer" id="escuro"aria-label=""><?php echo $icon?></span>
+        <span class="icon pointer" id="escuro"aria-label="">o</span>
         <script src="assets/js/script.min.js"></script>
         <div class="text-center">
             <pre class="pre">
